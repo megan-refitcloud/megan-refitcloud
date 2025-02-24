@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megan-refitcloud
-- 👀 I’m interested in ... bring new lift to old buildings
+- 👀 I’m interested in ... bringing new life to old buildings
 - 🌱 I’m currently learning ... full-stack web development
 - 💞️ I’m looking to collaborate on ... trades maybe dunno 
 - 📫 How to reach me ... depends on the platform, try BigWamma
